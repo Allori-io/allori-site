@@ -20,7 +20,7 @@ menu_page_uid: null
 ### Steps
 1. Go to the login page
 2. Enter your email address
-3. Enter your password (default for demo accounts: `Demo1234!`)
+3. Enter your password
 4. Click **Sign in**
 
 ### Forgot Password?
@@ -29,20 +29,5 @@ Click the **Forgot password?** link on the login page. You will receive an email
 ### Email Code Login
 You can also sign in using a one-time email code. Click **Sign in with email code** and enter your email address. A code will be sent to your inbox.
 
-### Demo Accounts
-The following demo accounts are available for testing:
-
-| Email | Role |
-|-------|------|
-| admin@allori-test.com | Staff / Administrator |
-| manager@allori-test.com | Staff / Management |
-| coordinator@allori-test.com | Coordinator |
-| casemgr@allori-test.com | Case Manager |
-| hr@allori-test.com | Staff / HR |
-| accounts@allori-test.com | Staff / Accounts |
-| worker1@allori-test.com | Employee |
-| contractor1@allori-test.com | Contractor |
-| client1@allori-test.com | Client |
-| customer1@allori-test.com | Customer |
-
-All demo accounts use the password `Demo1234!`.
+### Looking for a demo?
+Contact us for a demo: [contact@allori.io](mailto:contact@allori.io)
