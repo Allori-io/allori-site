@@ -41,5 +41,5 @@ Coordinator is a *role within Staff*, not a separate register — usually a case
 ### Related articles
 
 - [Workforce Overview — Four Cards, Four Registers](/help/workforce/workforce-overview)
-- [Managing Employees](/help/workforce/managing-employees)
-- [Managing Contractors](/help/workforce/managing-contractors)
+- Managing Employees
+- Managing Contractors

@@ -40,6 +40,6 @@ Hi — I'm Grace, your operations orchestrator. Care Services is where you tell 
 
 ### Related articles
 
-- [Setting Up Billing](/help/billing-setup/setting-up-billing)
-- [Managing Budgets](/help/budgets/managing-budgets)
+- Setting Up Billing
+- Managing Budgets
 - [Understanding the Schedule](/help/scheduling/understanding-schedule)

@@ -45,6 +45,6 @@ If you ever want to bookmark it, the help centre lives at `/help`. Each article 
 
 ### Related articles
 
-- [Using the Help Search](/help/getting-started/using-help-search)
-- [Using Contextual Help Buttons](/help/getting-started/using-contextual-help)
-- [Browsing Help by Category](/help/getting-started/browsing-help-categories)
+- Using the Help Search
+- Using Contextual Help Buttons
+- Browsing Help by Category

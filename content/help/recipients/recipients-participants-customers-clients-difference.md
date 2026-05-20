@@ -42,5 +42,5 @@ A single human being can appear in more than one register — for example, an HC
 ### Related articles
 
 - [Navigating the Recipients Register](/help/recipients/recipients-register-navigation)
-- [The Recipient Profile Page](/help/recipients/recipients-profile-overview)
-- [Activating a New Recipient](/help/recipients/recipients-activation-flow)
+- The Recipient Profile Page
+- Activating a New Recipient

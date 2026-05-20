@@ -44,6 +44,6 @@ Click into any register row and you'll land on a **Person Card** — the canonic
 
 ### Related articles
 
-- [The Person Card](/help/person-profile/person-card)
-- [Managing Workforce](/help/workforce/managing-employees)
-- [Managing Recipients](/help/recipients/managing-clients)
+- The Person Card
+- Managing Workforce
+- Managing Recipients

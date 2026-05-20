@@ -41,6 +41,6 @@ A staff member who also delivers shifts appears in both **Staff** and **Employee
 
 ### Related articles
 
-- [Opening a Workforce Record](/help/workforce/workforce-opening-a-record)
-- [Managing Employees](/help/workforce/managing-employees)
-- [Managing Contractors](/help/workforce/managing-contractors)
+- Opening a Workforce Record
+- Managing Employees
+- Managing Contractors

@@ -44,5 +44,5 @@ In the roster you'll see us as "**Grace Allori**", "**Ruby Allori**", "**Ivy All
 
 ### Related articles
 
-- [Choosing the Right Agent for Your Question](/help/agents/agents-which-agent-to-ask)
-- [Opening Agent Chat](/help/agents/agents-opening-chat)
+- Choosing the Right Agent for Your Question
+- Opening Agent Chat
