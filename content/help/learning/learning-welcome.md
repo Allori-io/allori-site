@@ -52,6 +52,6 @@ Every person with a Learn profile has access — staff, contractors, applicants 
 
 ### Related articles
 
-- [Finding and Filtering Courses](/help/learning/finding-courses)
-- [Completing a Course](/help/learning/completing-courses)
-- [Learning Paths Explained](/help/learning/learning-paths)
+- Finding and Filtering Courses
+- Completing a Course
+- Learning Paths Explained

@@ -42,5 +42,5 @@ Click the **person's name** to open their profile. The whole row highlights on h
 ### Related articles
 
 - [Participants, Customers, and Clients — What's the Difference?](/help/recipients/recipients-participants-customers-clients-difference)
-- [The Recipient Profile Page](/help/recipients/recipients-profile-overview)
-- [The Person Card](/help/person-profile/person-card)
+- The Recipient Profile Page
+- The Person Card

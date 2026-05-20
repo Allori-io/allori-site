@@ -30,4 +30,4 @@ menu_page_uid: null
 - **Staff cannot roster contractors** — contractors must agree to shifts themselves via the marketplace
 
 ### How does someone become a provider?
-Providers start as **applicants** and go through the HR pipeline. See [Activating an Applicant](/help/hr-recruitment/activating-applicant) for the full process.
+Providers start as **applicants** and go through the HR pipeline. See Activating an Applicant for the full process.

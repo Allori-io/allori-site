@@ -42,4 +42,4 @@ There are three types of care recipients in the platform. The type determines wh
 Yes. A person can be both a customer AND a client. For example, they might receive some services from employed care workers and other services from contractors.
 
 ### How does someone become a recipient?
-See [Activating a Prospect](/help/business-development/activating-a-prospect) for the full process.
+See Activating a Prospect for the full process.
