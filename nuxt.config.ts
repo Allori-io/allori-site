@@ -57,7 +57,7 @@ export default defineNuxtConfig({
   // Route rules — retire /docs in favour of /help (canonical markdown-backed route)
   routeRules: {
     '/docs': { redirect: { to: '/help', statusCode: 301 } },
-    '/docs/**': { redirect: { to: '/help', statusCode: 301 } },
+    '/docs/**': { redirect: { to: '/help/**', statusCode: 301 } },
   },
 
   // Azure Static Web Apps compatible
