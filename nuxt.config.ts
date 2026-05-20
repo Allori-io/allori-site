@@ -5,11 +5,18 @@ export default defineNuxtConfig({
     '@nuxtjs/supabase',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/color-mode',
+    '@nuxtjs/sitemap',
     'shadcn-nuxt',
   ],
 
   devtools: { enabled: true },
   compatibilityDate: '2024-04-03',
+
+  // Canonical site URL — used by @nuxtjs/sitemap + SEO meta defaults
+  site: {
+    url: 'https://allori.io',
+    name: 'Allori',
+  },
 
   // Supabase — staging project for help content (public read, no auth required)
   supabase: {
@@ -45,6 +52,12 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       ],
     },
+  },
+
+  // Route rules — retire /docs in favour of /help (canonical markdown-backed route)
+  routeRules: {
+    '/docs': { redirect: { to: '/help', statusCode: 301 } },
+    '/docs/**': { redirect: { to: '/help', statusCode: 301 } },
   },
 
   // Azure Static Web Apps compatible
