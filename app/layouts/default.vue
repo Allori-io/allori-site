@@ -12,8 +12,8 @@
           <NuxtLink to="/features" class="text-sm text-muted-foreground hover:text-foreground transition-colors">
             Features
           </NuxtLink>
-          <NuxtLink to="/docs" class="text-sm text-muted-foreground hover:text-foreground transition-colors">
-            Help & Docs
+          <NuxtLink to="/help" class="text-sm text-muted-foreground hover:text-foreground transition-colors">
+            Help
           </NuxtLink>
           <NuxtLink to="/blog" class="text-sm text-muted-foreground hover:text-foreground transition-colors">
             Resources
@@ -48,7 +48,7 @@
             <h4 class="font-semibold text-sm mb-3">Product</h4>
             <ul class="space-y-2 text-sm text-muted-foreground">
               <li><NuxtLink to="/features" class="hover:text-foreground">Features</NuxtLink></li>
-              <li><NuxtLink to="/docs" class="hover:text-foreground">Help & Docs</NuxtLink></li>
+              <li><NuxtLink to="/help" class="hover:text-foreground">Help</NuxtLink></li>
               <li><a href="https://app.allori.io" class="hover:text-foreground">Sign In</a></li>
             </ul>
           </div>

@@ -20,5 +20,8 @@
     "radix-vue": "^1.9.17",
     "shadcn-nuxt": "^2.6.2",
     "tailwind-merge": "^3.5.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/sitemap": "^8.0.15"
   }
 }
