@@ -15,7 +15,7 @@ menu_page_uid: null
 
 ## Logging In
 
-![The Allori login page](https://mnabjfubhcvglaiafhrs.supabase.co/storage/v1/object/public/help-media/screenshots/01-login-page.png)
+![The Allori login page](/help-media/01-login-page.png)
 
 ### Steps
 1. Go to the login page
