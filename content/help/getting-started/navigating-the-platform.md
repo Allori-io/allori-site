@@ -15,7 +15,7 @@ menu_page_uid: null
 
 ## Navigating the Platform
 
-![The Help Centre showing all categories](https://mnabjfubhcvglaiafhrs.supabase.co/storage/v1/object/public/help-media/screenshots/02-help-centre.png)
+![The Help Centre showing all categories](/help-media/02-help-centre.png)
 
 ### Main Navigation
 The left sidebar contains all the main sections of the platform, organised by domain:
