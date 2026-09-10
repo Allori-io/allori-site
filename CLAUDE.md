@@ -2,6 +2,8 @@
 
 Marketing, help documentation, and informational website for Allori.
 
+This is a design scaffold, not a live site: it exists to work out framework, design and information architecture before allori.io is built. Treat existing pages and content as exploration, and the Hosting/Domain lines below as the target, not current state.
+
 ## Stack
 
 - **Framework:** Nuxt 4 + Nuxt Content
@@ -15,7 +17,7 @@ Marketing, help documentation, and informational website for Allori.
 | Section | Path | Source |
 |---------|------|--------|
 | Marketing | `/`, `/features`, `/about` | Nuxt Content (markdown in `content/`) |
-| Help & Docs | `/docs` | Supabase `help_content` + `help_categories` tables |
+| Help & Docs | `/help` | Nuxt Content (markdown in `content/help/`) |
 | Blog / Resources | `/blog` | Nuxt Content (markdown in `content/blog/`) |
 
 ## Development
@@ -29,9 +31,7 @@ npm run preview    # Preview production build
 
 ## Content Pipeline
 
-Help documentation is generated overnight by Pepper (Claude Code) and stored in Supabase. The site pulls from the same `help_content`, `help_categories`, and `help_faqs` tables that the in-app help system uses.
-
-Marketing and blog content lives as markdown files in `content/` and is managed via Nuxt Content.
+All content — marketing, help and blog — is markdown under `content/`, managed by Nuxt Content. Serving help from the app's Supabase `help_content` tables is a possible later step, not current behaviour.
 
 ## Environment Variables
 
